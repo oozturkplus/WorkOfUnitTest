@@ -1,0 +1,8 @@
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\bin\Debug\UntitTestWork.exe.config
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\bin\Debug\UntitTestWork.exe
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\bin\Debug\UntitTestWork.pdb
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\bin\Debug\nunit.framework.dll
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\bin\Debug\nunit.framework.xml
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\obj\Debug\UntitTestWork.csprojResolveAssemblyReference.cache
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\obj\Debug\UntitTestWork.exe
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\UntitTestWork\obj\Debug\UntitTestWork.pdb

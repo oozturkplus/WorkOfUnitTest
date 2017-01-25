@@ -1,0 +1,10 @@
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.exe.config
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.exe
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\LogAn.UnitTests.pdb
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\nunit.framework.dll
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\UntitTestWork.exe
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\UntitTestWork.pdb
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\bin\Debug\nunit.framework.xml
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.exe
+c:\users\ozgursoup\documents\visual studio 2015\Projects\UntitTestWork\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.pdb
+c:\Users\ozgursoup\Documents\Visual Studio 2015\Projects\UntitTestWork\LogAn.UnitTests\obj\Debug\LogAn.UnitTests.csprojResolveAssemblyReference.cache
